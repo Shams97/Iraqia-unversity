@@ -7,3 +7,8 @@
 	path = intpath/openeducat_admission
 	url = git@github.com:intpath/openeducat_admission.git
 	branch = master
+
+[submodule "intpath/openeducat_assignment"]
+	path = intpath/openeducat_assignment
+	url = git@github.com:intpath/openeducat_assignment.git
+	branch = master
