@@ -42,3 +42,8 @@
 	path = intpath/openeducat_facility
 	url = git@github.com:intpath/openeducat_facility.git
 	branch = master
+
+[submodule "intpath/openeducat_fees"]
+	path = intpath/openeducat_fees
+	url = git@github.com:intpath/openeducat_fees.git
+	branch = master
