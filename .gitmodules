@@ -1,0 +1,4 @@
+[submodule "intpath/openeducat_activity"]
+	path = intpath/openeducat_activity
+	url = git@github.com:intpath/openeducat_activity.git
+	branch = master
