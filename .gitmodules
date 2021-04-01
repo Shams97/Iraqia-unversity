@@ -12,3 +12,8 @@
 	path = intpath/openeducat_assignment
 	url = git@github.com:intpath/openeducat_assignment.git
 	branch = master
+
+[submodule "intpath/openeducat_attendance"]
+	path = intpath/openeducat_attendance
+	url = git@github.com:intpath/openeducat_attendance.git
+	branch = master
